@@ -1,1 +1,1 @@
-a script that sets the permission to the file hello
+a script that prints the effective username of the current user
